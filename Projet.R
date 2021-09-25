@@ -1,9 +1,7 @@
-#********************************************************************************
+#***************************************************************************************************
 #     Thème : Séries Temporelles 
-#
-#     Sujet: Nbre de défaillances d'entreprises en Normandie 
-#             Secteur Hébergement-Restauration
-#********************************************************************************
+#     Sujet: Nbre de défaillances d'entreprises en Normandie Secteur Hébergement-Restauration
+#***************************************************************************************************
 
 #Ié) Importations, Manipulations, Nettoyages et Validations des données
 file="Mod_Temporelles/Projet/data_projet/valeurs_trimestrielles.csv"
