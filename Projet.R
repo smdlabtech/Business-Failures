@@ -1,6 +1,5 @@
 #***************************************************************************************************
-#     Thème : Séries Temporelles 
-#     Sujet: Nbre de défaillances d'entreprises en Normandie Secteur Hébergement-Restauration
+#     Thème : Nbre de défaillances d'entreprises en Normandie Secteur Hébergement-Restauration
 #***************************************************************************************************
 
 #Ié) Importations, Manipulations, Nettoyages et Validations des données
