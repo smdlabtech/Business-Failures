@@ -1,4 +1,4 @@
-# defaillances_entreprises
+# Business_failures
 Number of business failures in Normandy Accommodation and catering sector
 #Topic : Times Series
 
