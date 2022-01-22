@@ -1,7 +1,7 @@
-# Business_failures
-Number of business failures in Normandy Accommodation and catering sector
+# Défaillances d'entreprises
+Nombre de défaillances d'entreprises en Normandie Secteur de l'hébergement et de la restauration
 
-# Topic : Times Series
+# Sujet : Série chronologique  
 
-Data source : https://www.insee.fr/fr/accueil;  
-Period of data collection : 1990 - 2020
+Source des données : https://www.insee.fr/fr/accueil ;  
+Période de collecte des données : 1990 - 2020
