@@ -35,30 +35,6 @@ Les données étudiées incluent :
 
 ---
 
-## 🔬 Analyse exploratoire  
-
-📊 **Exemple de chargement et visualisation des données en Python**  
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-
-# Chargement des données
-url = "chemin_vers_votre_fichier.csv"
-df = pd.read_csv(url)
-
-# Visualisation des tendances
-plt.figure(figsize=(10,5))
-plt.plot(df["Année"], df["Nombre de défaillances"], marker="o", linestyle="-", color="red")
-plt.xlabel("Année")
-plt.ylabel("Nombre de défaillances")
-plt.title("Évolution des défaillances d'entreprises (Normandie)")
-plt.grid(True)
-plt.show()
-```
-
----
-
 ## 📢 Conclusion & Perspectives  
 
 📌 **Observations** :  
