@@ -1,5 +1,5 @@
 # 🏢 Défaillances d'entreprises  
-![Economy](https://img.shields.io/badge/Economie-Business_Failures-red?style=flat&logo=bar-chart)
+![Economy](https://img.shields.io/badge/Economy-Business_Failures-red?style=flat&logo=bar-chart)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Statistics-blue?style=flat&logo=python) 
 ![France](https://img.shields.io/badge/Region-Normandie-blue?style=flat&logo=flag)
 
