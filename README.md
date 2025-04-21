@@ -3,14 +3,10 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Statistics-blue?style=flat&logo=python) 
 ![France](https://img.shields.io/badge/Region-Normandie-blue?style=flat&logo=flag)
 
----
-
 ## 📊 Nombre de défaillances d'entreprises en Normandie  
 📌 **Secteur étudié** : Hébergement et Restauration 🍽️🏨  
 📌 **Source des données** : [INSEE](https://www.insee.fr/fr/accueil)  
 📌 **Période de collecte** : **1990 - 2020**  
-
----
 
 ## 🎯 Objectifs de l'analyse  
 
@@ -18,7 +14,6 @@
 - 📈 **Identifier les tendances économiques** et les périodes de crise  
 - 🛠️ **Proposer des visualisations** et des insights à partir des données collectées  
 
----
 
 ## 📂 Structure des données  
 
@@ -33,7 +28,6 @@ Les données étudiées incluent :
 
 📌 **Données brutes disponibles au format `.csv` ou `.xlsx`**  
 
----
 
 ## 📢 Conclusion & Perspectives  
 
@@ -47,9 +41,6 @@ Les données étudiées incluent :
 ✅ **Corrélation avec d'autres facteurs économiques (PIB, chômage, tourisme)**  
 ✅ **Modélisation prédictive pour anticiper les tendances futures**  
 
----
-
 📌 **Auteur** : smdlabtech  
 📜 **Licence** : Open-Source  
 
----
